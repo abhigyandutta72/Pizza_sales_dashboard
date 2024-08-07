@@ -3,6 +3,8 @@ This repository contains a comprehensive dashboard project analyzing pizza sales
 Pizza Sales Dashboard
 This repository hosts a comprehensive and interactive dashboard project aimed at analyzing pizza sales data. Built using Power BI, MySQL, and Excel, this project offers deep insights into sales trends, customer preferences, and various key performance indicators (KPIs).
 
+The Datasets are given in the repository as pizza sales excel file or pizza_sales.csv you can download any one of them to continue your analysis.
+
 Project Overview:
 The goal of this project is to provide a detailed analysis of pizza sales data through a user-friendly dashboard. By integrating data from MySQL and an Excel datasheet, the dashboard offers a holistic view of sales performance and helps identify areas for improvement.
 
